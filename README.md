@@ -4,5 +4,5 @@ CharMatch is here to make it happen.
 
 ### To-do
 
-- [ ] Rewrite readme with more detail
-- [ ] Migrate DataBase topostgresql
+- [ ] Rewrite readme in more detail
+- [ ] Migrate DataBase to PostgreSQL
